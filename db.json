@@ -1,0 +1,38 @@
+{
+  "countries": [
+    {
+      "title": "Sweden",
+      "id": 1
+    },
+    {
+      "title": "India",
+      "id": 2
+    },
+    {
+      "title": "England",
+      "id": 3
+    },
+    {
+      "title": "France",
+      "id": 4
+    },
+    {
+      "title": "Israel",
+      "id": 5
+    }
+  ],
+  "cities": [
+    {
+      "City": "Cuttack",
+      "Country": "India",
+      "Population": "13243657",
+      "id": 1
+    },
+    {
+      "City": "Mumbai",
+      "Country": "India",
+      "Population": "1000000",
+      "id": 2
+    }
+  ]
+}
